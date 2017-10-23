@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Scrypto">fab3ab20db4a0f001b783600ad9619b8</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>ben.yukich</sys_created_by>
+        <sys_created_on>2017-10-23 18:18:41</sys_created_on>
+        <sys_id>c26523e0db4a0f001b783600ad961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: string utilities</sys_name>
+        <sys_package display_value="Scrypto" source="x_snc_scrypto">fab3ab20db4a0f001b783600ad9619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrypto">fab3ab20db4a0f001b783600ad9619b8</sys_scope>
+        <sys_update_name>sys_scope_privilege_c26523e0db4a0f001b783600ad961987</sys_update_name>
+        <sys_updated_by>ben.yukich</sys_updated_by>
+        <sys_updated_on>2017-10-23 18:18:41</sys_updated_on>
+        <target_name>Glide API: string utilities</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
